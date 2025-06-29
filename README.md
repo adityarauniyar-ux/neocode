@@ -1,7 +1,7 @@
 
 # 📦 [neocode](https://neocode-io.vercel.app)
 
-**[neocode](https://neocode-io.vercel.app)** is a modern web-based code editor interface built with **TypeScript**, **Tailwind CSS**, and **PostCSS**. The project aims to provide a minimal, responsive, and developer-friendly environment for writing and previewing code directly in the browser.
+**Neocode** is a modern web-based code editor interface built with **TypeScript**, **Tailwind CSS**, and **PostCSS**. The project aims to provide a minimal, responsive, and developer-friendly environment for writing and previewing code directly in the browser.
 
 ## 🎯 Project Purpose
 
